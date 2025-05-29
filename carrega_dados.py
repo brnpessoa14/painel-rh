@@ -1,9 +1,9 @@
 import pandas as pd
 
 # caminho para o arquivo CSV
-caminho_folha = "dados/folha.csv"
-caminho_beneficios = "dados/benificios.csv"
-caminho_movimentacao = "dados/movimentacao.csv"
+caminho_folha = "data/folha-de-pagamento.csv"
+caminho_beneficios = "data/benificios.csv"
+caminho_movimentacao = "data/movimentacoes.csv"
 
 
 # leitura das plhanilhas 
